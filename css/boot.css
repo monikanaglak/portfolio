@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    position: relative;
+    
+}
+nav{
+    text-transform: uppercase;
+    margin-left:auto;
+    margin-right: auto;
+}
+.navbar-brand{
+    font-weight: semi-bold;
+}
+
+a:hover{
+    background-color:grey;
+    transition:0.2s;
+}
+i{
+    padding:10px;
+}
+#old{
+    margin-top:50px;
+}
+img{
+    margin-top:5px;
+    
+}
